@@ -1,0 +1,38 @@
+# --- Secrets: never commit these ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# --- OS and editors ---
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/
+
+# --- Kotlin / Java / Gradle (backend) ---
+.gradle/
+build/
+out/
+*.class
+
+# --- Node (frontend) ---
+node_modules/
+dist/
+npm-debug.log*
+
+# --- Python (functions) ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- Terraform (infra) ---
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+!example.tfvars
+crash.log
