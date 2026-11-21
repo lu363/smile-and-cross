@@ -18,6 +18,6 @@ Template:
 ## 2026-11-21 – Milestone 0: Kickoff
 
 **Did:** Picked the project (group Bingo app) and named it Smile & Cross, the stack (team stack: Java/Spring Boot, Postgres, InfluxDB Cloud, Python, AWS, Terraform) and the roadmap. Set up the repo.
-**Learned:**
+**Learned:*Small Setup Learnings along the way (SSH/HTTPS, winget, ..) but setup of Project and knowledge base*
 **Confused by / open questions:**
 **Next:** Finish Milestone 0: first pull request, then start the data model (Milestone 1).
